@@ -1,0 +1,14 @@
+header {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background-color: #c4c3c3;
+}
+
+footer {
+  background-color: #c4c3c3;
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
